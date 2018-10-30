@@ -2,7 +2,7 @@ let bag = {
   name: "Trail Mix",
   shape: "square",
   color: "blue",
-  material: "plastic"
+  //material: "plastic"
 }
 let label1 = {
   name: "Kirkland",
