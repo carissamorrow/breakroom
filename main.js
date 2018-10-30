@@ -21,6 +21,10 @@ let backLabel1 = {
   color: "white",
   fontColor: "black"
 }
+let ingredients1 = [{
+  ounces: 3,
+  name: "peanuts"
+}]
 let backLabel2 = {
   name: "Nutrition Facts",
   fontColor: "black",
